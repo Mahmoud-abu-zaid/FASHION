@@ -19,10 +19,10 @@ export default function Header() {
               <Link to="/Fashion" className="p-3">FASHION</Link>
             </li>
             <li>
-              <Link to="/FAVOURITE" className="p-3">FAVOURITE</Link>
+              <Link to="/Favourite" className="p-3">FAVOURITE</Link>
             </li>
             <li>
-              <Link to="/LIFESTYLE" className="p-3">LIFESTYLE</Link>
+              <Link to="/Lifestyle" className="p-3">LIFESTYLE </Link>
             </li>
             <li>
               <Link to="/SIGN" className="p-3">SIGN UP</Link>
