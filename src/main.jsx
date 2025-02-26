@@ -7,7 +7,7 @@ import "./index.css";
 import { BrowserRouter, Route, Routes } from "react-router";
 import Header from "./components/layouts/Header.jsx";
 import Home from "./components/pages/Home.jsx";
-import Catalogue from "./components/pages/Catalogue.jsx";
+import Catalogue from "./components/pages/CATALOGUE.jsx";
 import App from "./App.jsx";
 import Fashion from "./components/pages/Fashion.jsx";
 import Favourite from "./components/pages/Favourite.jsx";
