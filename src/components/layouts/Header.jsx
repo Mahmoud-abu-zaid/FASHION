@@ -13,10 +13,10 @@ export default function Header() {
           </div>
           <ul className="md:flex ">
             <li>
-              <Link to="/CATALOGUE" className="p-3">CATALOGUE</Link>
+              <Link to="/Catalogue" className="p-3">CATALOGUE</Link>
             </li>
             <li>
-              <Link to="/FASHION" className="p-3">FASHION</Link>
+              <Link to="/Fashion" className="p-3">FASHION</Link>
             </li>
             <li>
               <Link to="/FAVOURITE" className="p-3">FAVOURITE</Link>
